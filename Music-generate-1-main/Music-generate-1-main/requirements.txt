@@ -1,0 +1,9 @@
+keras
+scikit-learn
+glob2
+os-win
+tensorflow
+collection
+music21
+streamlit
+midi2audio
